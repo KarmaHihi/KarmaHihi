@@ -3,8 +3,8 @@
 ![banner](https://cdn.discordapp.com/attachments/1471189694552215616/1476034105467736116/toji.png?ex=699fa762&is=699e55e2&hm=fcddc12147dcc1c74b5dc35ee0a9eff3b3204d4386c1b39182a083cc21494753&)
 <hr>
 
-What am I?
-• chill, polite and depressed french dev.
+What am I? <br>
+• chill, polite and depressed french dev. <br>
 • New dev, actually learning
 
 <hr>

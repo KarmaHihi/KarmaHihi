@@ -1,6 +1,6 @@
 # Hi I'm Karma
 
-![banner](https://cdn.discordapp.com/attachments/1471189694552215616/1476034105467736116/toji.png?ex=699fa762&is=699e55e2&hm=fcddc12147dcc1c74b5dc35ee0a9eff3b3204d4386c1b39182a083cc21494753&)
+![banner](https://cdn.discordapp.com/attachments/1470883381590888490/1489127351479697582/Calque_8.png?ex=69cf496b&is=69cdf7eb&hm=92586603f010cf7efbf8472564d716912e3cda3fc82cd5c469f3e884829576a5&)
 <hr>
 
 How am I? <br>
